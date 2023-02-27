@@ -1,7 +1,0 @@
-#13M 6layer-BLSTM results
-# sp   unit      test set
-# Y    phone     7.30%
-
-#16M VGG+6layer-BLSTM results
-# sp   unit      test set
-# Y    phone     6.34%
